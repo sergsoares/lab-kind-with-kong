@@ -1,0 +1,9 @@
+bash scripts/create-cluster
+
+bash scripts/info
+
+bash scripts/kong-install
+
+sleep 10 
+
+bash scripts/simple-pod-install
