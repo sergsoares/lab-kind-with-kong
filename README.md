@@ -81,3 +81,8 @@ foo
 $ curl localhost/bar
 bar
 ```
+
+## References
+
+- [Kind Ingress configuration](https://kind.sigs.k8s.io/docs/user/ingress)
+- [Kind Load balancer configuration](https://kind.sigs.k8s.io/docs/user/loadbalancer/)
